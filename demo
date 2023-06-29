@@ -1,4 +1,4 @@
 STORE_ID=63c72220b47597e7658e4e14
-MODEL=gpt-4-32k
+MODEL=gpt-4
 ###
 gpt-3.5-turbo-16k=
